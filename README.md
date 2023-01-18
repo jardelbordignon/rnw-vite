@@ -14,6 +14,6 @@ O projeto foi construído usando as seguintes tecnologias:
 
 
 # :rocket:
-yarn install
-yarn start
-yarn web
+yarn install<br/>
+yarn start<br/>
+yarn web<br/>
