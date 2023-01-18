@@ -1,6 +1,5 @@
 <p align="center">
-   <img src="https://github.com/jardelbordignon/rnw-vite/blob/main/public/rnw-vite
-.png" width="100%"/>
+   <img src="https://github.com/jardelbordignon/rnw-vite/blob/main/public/rnw-vite.png" width="100%"/>
 </p>
 
 <h1 align="center">React-Native e ViteJs</h1>
